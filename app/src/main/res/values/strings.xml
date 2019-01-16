@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">__Les Intents</string>
+    <string name="description">Les Intents sont des descriptions abstraites d\'actions à effectuer</string>
+    <string name="description2">Les Intents sont des descriptions abstraites d\'actions à effectuer, auxquelles l\'on peut ajouter des paramètres pour influencer les actions résultantes.</string>
+    <string name="lbl_btn_telephone">Call me peut-être</string>
+    <string name="lbl_btn_screen2">Aller écran 2</string>
+    <string name="lbl_btn_qrreader">Lire un QR code</string>
+    <string name="intent_explicite">Intent Explicite</string>
+    <string name="intent_implicite">Intent Implicite</string>
+    <string name="pas_content">Pas content</string>
+    <string name="content">Content</string>
+    <string name="rienchoisi">Il faut choisir"</string>
+
+</resources>
